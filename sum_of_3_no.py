@@ -1,0 +1,6 @@
+print("Sum of three numbers")
+a=float(input("enter number a="))
+b=float(input("enter number b="))
+c=float(input("enter number c="))
+sum=(a+b+c)
+print("The sum of the numbers=",sum)

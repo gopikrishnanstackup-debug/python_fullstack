@@ -1,0 +1,10 @@
+# basic calculator
+a=float(input("enter number a:"))
+b=float(input("enter number b:"))
+print("a+b=",(a+b))
+print("a-b=",(a-b))
+print("a*b=",(a*b))
+print("a/b=",(a/b))
+print("a//b=",(a//b))
+print("a%b=",(a%b))
+print("a**b=",(a**b))

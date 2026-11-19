@@ -1,0 +1,10 @@
+print("gopikrishnan")
+# print("kovalam")
+print("fullstack")
+name="gopikrishnan"
+print(name)
+print("my name is-")
+print(name)
+print("my name is",name)
+print("hello",name,"welcome to stackup")
+print(f"hello {name} welcome to stackup")

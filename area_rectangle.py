@@ -1,0 +1,5 @@
+print("Rectangle Area finder")
+length=float(input("Enter The Length="))
+width=float(input("Enter The Width="))
+area=(length*width)
+print("the area of the rectangle is=",area)

@@ -1,0 +1,8 @@
+print("------enter your mark in the following subjects------")
+maths=float(input("maths:"))
+physics=float(input("physics:"))
+biology=float(input("biology:"))
+a=float(input("enter your total mark:"))
+print(f"maths:{(maths)}/{(a)} percentage={((maths/a)*100)}")
+print(f"physics:{(physics)}/{(a)} percentage={((physics/a)*100)}")
+print(f"biology:{(biology)}/{(a)} percentage={((biology/a)*100)}")

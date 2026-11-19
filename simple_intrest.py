@@ -1,0 +1,6 @@
+print("------Simple Intrest------")
+p=float(input("enter the price:"))
+r=float(input("enter the intrest rate:"))
+t=float(input("enter the time:"))
+si=((p*t*r)/100)
+print("The Simple Intrest=",si)
